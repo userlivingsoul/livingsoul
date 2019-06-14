@@ -1,0 +1,34 @@
+<article class="masonry__brick entry format-video" data-aos="fade-up">
+                        
+                    <div class="entry__thumb video-image">
+                        <a>
+                           
+                        <iframe width="330" height="300" src="https://www.youtube.com/embed/PkkV1vLHUvQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</a>
+                    </div>
+    
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            
+                            <div class="entry__date">
+                                <a href="single-video.html">December 10, 2017</a>
+                            </div>
+                            <h1 class="entry__title"><a href="single-video.html">BUGATTI Chiron 0-400-0 km/h in 42 seconds</a></h1>
+                            
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>
+                                World record for the BUGATTI Chiron: the 1,500 PS super car has accelerated from a standing start to 400 km/h (249 mph) and braked back to a standstill in just 42 seconds (41.96). This is the fastest time ever reached and officially measured for this driving manoeuvre for a production vehicle throughout the world. The Chiron completed the manoeuvre in a distance of only 3.112 kilometres. This underscores the supercar’s unique position in the extreme performance range. The world record was set by Juan Pablo Montoya, winner of the Formula 1 Monaco Grand Prix, two-time winner of the Indy 500 and three-time winner of the 24 hours of Daytona. The 0-400-0 manoeuvre is the first step on the way to a new world speed record for production vehicles which Bugatti intends to set in 2018 and a further highlight in the success story of the Chiron.
+
+Please note: The video shows the actual 0-400-0 run in real time, so it is 41.96 seconds long.
+                            </p>
+                        </div>
+                        <div class="entry__meta">
+                            <span class="entry__meta-links">
+                                <a href="category.html">Family</a> 
+                                <a href="category.html">Photography</a>
+                            </span>
+                        </div>
+                    </div>
+    
+                </article> <!-- end article -->
