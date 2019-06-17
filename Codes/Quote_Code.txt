@@ -2,9 +2,9 @@
                         
                     <div class="entry__thumb">
                         <blockquote>
-                                <p>Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.</p>
+                                <p>People choose to struggle when people don't want to relax. Sometimes it is not on your side. Relax; calm down. No matter how hard the waves are, you will float on the ocean.</p>
     
-                                <cite>Dieter Rams</cite>
+                                <cite>Swami Vivekanada</cite>
                         </blockquote>
                     </div>   
     
